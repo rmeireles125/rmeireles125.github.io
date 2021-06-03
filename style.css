@@ -1,5 +1,5 @@
 body{
-    margin-top: 30px;
+    margin-top: 80px;
     max-height: 100%;
     background-color: #89f060;
     color: #14261A;
@@ -12,6 +12,11 @@ html,body{
 .navbar{
     background-color: #1E452C;
     color: white;
+
+}
+
+.navbar-brand img{
+    max-width: 200px;
 }
 
 .logar{
@@ -120,7 +125,7 @@ span{
     padding: 40px;
     background-color: #217336;
     color: white;
-    height: 100vh;
+    height: 235vh;
     min-width: min-content;
 }
 
